@@ -1,0 +1,6 @@
+title: Eric Medwedeff's Personal Website
+logo: /assets/img/headshot1.png
+description: A website summarizing my work
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal

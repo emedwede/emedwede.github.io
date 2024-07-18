@@ -19,13 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Eric Medwedeff
-description: This a a thesis website for my work building and developing software tools for the simulation and modeling of Dynamical Graph Grammars.
+description: This a a thesis website for my work building and developing software tools for the simulation and modeling of Dynamical Graph Grammars. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: emedwede
 logo: /assets/img/headshot1.png
 show_downloads: false
 
+social:
+  name: Eric Medwedeff
+  links:
+    - https://github.com/emedwede
+    - www.linkedin.com/in/eric-medwedeff-b105ab161
+
+repository: physics-based-ml/physics-based-ml.github.io
+# github: [metadata]
+
+name_emj: Eric Mjolsness
+affiliation_emj: Departments of Computer Science and Mathematics, UC Irvine
+url_emj: https://emj.ics.uci.edu
 
 # Build settings
 #theme: minima

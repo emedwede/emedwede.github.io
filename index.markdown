@@ -8,7 +8,9 @@ I demonstrated these principles through the Dynamical Graph Grammar Modeling Lib
 
 Additionally, during my PhD, I gained valuable experience in scientific computing and high-performance computing (HPC) through internships at Lawrence Livermore National Laboratory and Los Alamos National Laboratory. During these internships, I worked on projects involving plasma physics, machine learning, and asteroid detection. 
 
-## Papers
+## Thesis and Papers
+You can find a copy of my thesis [here](assets/img/thesis_compressed.pdf) or from the UCI or SDSU library. It offers a great tutorial and deeper undertanding of dynamical graph grammars and the design and implementation of the dynamical graph grammar modeling library [(DGGML)](https://github.com/emedwede/DGGML).
+
 I have published a first-author paper in the journal Physical Biology, and another paper is currently available on arXiv. In the past, I have also contributed to a workshop paper on performance portability in Fortran and conducted an editorial review of a computer vision paper published in IEEE Transactions on Neural Networks and Learning Systems.
 
 You can find my work associated with my [OrcID](https://orcid.org/0000-0001-7729-0614) or below:
